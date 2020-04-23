@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-04-23T12:11:28.858Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.113 Safari/537.36" etag="_aybI2NchqFlmX0DR4xd" version="13.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-04-23T12:12:14.296Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.113 Safari/537.36" etag="ZD6lUl7-xhzGMTXVR4rZ" version="13.0.1" type="github">
   <diagram id="tqdO_gt39iN2YjfOuPq4" name="Page-1">
     <mxGraphModel dx="1398" dy="473" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -88,6 +88,12 @@
         </mxCell>
         <mxCell id="baPiKCOH40HusZpdo7xa-37" value="&lt;font style=&quot;font-size: 18px&quot;&gt;female_on_mp_count&lt;br&gt;（麦位上女用户数量）&lt;/font&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="450" y="620" width="230" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="cvqTNHz6OLDybXuR_CQE-1" value="&lt;font&gt;&lt;font style=&quot;font-size: 18px&quot;&gt;last_male_auto_invite_at&lt;br&gt;（上次男用户自动邀请时间）&lt;/font&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-220" y="640" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="cvqTNHz6OLDybXuR_CQE-2" value="&lt;font&gt;&lt;font style=&quot;font-size: 18px&quot;&gt;last_female_auto_invite_at&lt;br&gt;（上次女用户自动邀请时间）&lt;/font&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="640" width="240" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
