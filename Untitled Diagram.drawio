@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-04-25T02:54:37.385Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.113 Safari/537.36" etag="i3KCnkLc3rVjS09GjHnt" version="13.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-04-25T02:57:06.940Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.113 Safari/537.36" etag="y5QiBjiU-PlJPqzH_u6_" version="13.0.1" type="github">
   <diagram id="tqdO_gt39iN2YjfOuPq4" name="Page-1">
     <mxGraphModel dx="4769" dy="3062" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1042,6 +1042,21 @@
         </mxCell>
         <mxCell id="cvqTNHz6OLDybXuR_CQE-347" value="&lt;font&gt;&lt;font&gt;&lt;span style=&quot;font-size: 18px&quot;&gt;frozen_gold_at&lt;br&gt;（冻结火点时间）&lt;/span&gt;&lt;/font&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-3000" y="1734" width="153" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="cvqTNHz6OLDybXuR_CQE-348" value="&lt;font&gt;&lt;font&gt;&lt;span style=&quot;font-size: 18px&quot;&gt;first_consumed_at&lt;br&gt;（第一次消费火点时间）&lt;/span&gt;&lt;/font&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-3050" y="1790" width="203" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="cvqTNHz6OLDybXuR_CQE-349" value="&lt;font&gt;&lt;font&gt;&lt;span style=&quot;font-size: 18px&quot;&gt;last_consumed_at&lt;br&gt;（最后一次消费火点时间）&lt;/span&gt;&lt;/font&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-2790" y="1790" width="220" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="cvqTNHz6OLDybXuR_CQE-350" value="&lt;font&gt;&lt;span style=&quot;font-size: 18px&quot;&gt;consumed_times&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;font-size: 18px&quot;&gt;（消费火点次数）&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-2800" y="1240" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="cvqTNHz6OLDybXuR_CQE-351" value="&lt;font&gt;&lt;span style=&quot;font-size: 18px&quot;&gt;charged_gold&lt;br&gt;（历史充值火点数）&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-3020" y="1240" width="170" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="cvqTNHz6OLDybXuR_CQE-352" value="&lt;font&gt;&lt;span style=&quot;font-size: 18px&quot;&gt;charged_money&lt;br&gt;（历史充值金额）&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-3000" y="1180" width="150" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
