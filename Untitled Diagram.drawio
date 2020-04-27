@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-04-27T06:23:26.504Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.113 Safari/537.36" etag="SNTHFtFY1bvbwUyQQCR1" version="13.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-04-27T06:28:46.581Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.113 Safari/537.36" etag="3UcbtotyI7J2nRIAjJ9W" version="13.0.1" type="github">
   <diagram id="tqdO_gt39iN2YjfOuPq4" name="Page-1">
     <mxGraphModel dx="10803" dy="6319" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1967,6 +1967,9 @@
         </mxCell>
         <mxCell id="cvqTNHz6OLDybXuR_CQE-688" value="&lt;font style=&quot;font-size: 36px&quot;&gt;room_match_2020_03&lt;br&gt;（房间match游戏表）&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-927" y="-2140" width="387" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="cvqTNHz6OLDybXuR_CQE-690" value="&lt;font style=&quot;font-size: 36px&quot;&gt;每个场次可以发起多次房间游戏，&lt;br&gt;发起游戏后记录所有题目id&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-1070" y="-2260" width="739.49" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
