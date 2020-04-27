@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-04-27T08:58:56.700Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.113 Safari/537.36" etag="iqor9bzpThE39ao4rti4" version="13.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-04-27T09:05:26.646Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.113 Safari/537.36" etag="ktx9kMEeFUtIadRNYtM1" version="13.0.1" type="github">
   <diagram id="tqdO_gt39iN2YjfOuPq4" name="Page-1">
-    <mxGraphModel dx="10131" dy="9607" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="8951" dy="9451" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1954,38 +1954,20 @@
         <mxCell id="cvqTNHz6OLDybXuR_CQE-681" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;shadow=0;opacity=40;" edge="1" parent="1" source="cvqTNHz6OLDybXuR_CQE-672" target="cvqTNHz6OLDybXuR_CQE-676">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="cvqTNHz6OLDybXuR_CQE-682" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;shadow=0;opacity=40;" edge="1" parent="1" source="cvqTNHz6OLDybXuR_CQE-672" target="cvqTNHz6OLDybXuR_CQE-677">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="cvqTNHz6OLDybXuR_CQE-683" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;shadow=0;opacity=40;" edge="1" parent="1" source="cvqTNHz6OLDybXuR_CQE-672" target="cvqTNHz6OLDybXuR_CQE-678">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="cvqTNHz6OLDybXuR_CQE-684" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;shadow=0;opacity=40;" edge="1" parent="1" source="cvqTNHz6OLDybXuR_CQE-672" target="cvqTNHz6OLDybXuR_CQE-679">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="cvqTNHz6OLDybXuR_CQE-672" value="&lt;font style=&quot;font-size: 36px&quot;&gt;room_mode_invite_2020_05&lt;br&gt;（房间模式切换邀请表）&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="560" y="-5890" width="500" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="cvqTNHz6OLDybXuR_CQE-674" value="&lt;font&gt;&lt;span style=&quot;font-size: 36px&quot;&gt;当房间模式进行切换时会对（一个或多个）用户发出邀请&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 36px&quot;&gt;&lt;br&gt;&lt;font color=&quot;#cc0000&quot;&gt;邀请男嘉宾同意创建专属模式后，除了团长、麦位的男女嘉宾和超级管理员外，其余的用户均踢出房间&lt;/font&gt;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 36px&quot;&gt;&lt;font color=&quot;#cc0000&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 36px&quot;&gt;&lt;font color=&quot;#cc0000&quot;&gt;邀请女嘉宾同意创建专属模式后，除了团长、麦位的女嘉宾和超级管理员外，其余的用户均踢出房间&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="490" y="-6380" width="580" height="480" as="geometry" />
+        <mxCell id="cvqTNHz6OLDybXuR_CQE-674" value="&lt;font&gt;&lt;span style=&quot;font-size: 36px&quot;&gt;当房间模式进行切换时会对（一个或多个）用户发出邀请&lt;/span&gt;&lt;span style=&quot;font-size: 36px&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="520" y="-5990" width="580" height="100" as="geometry" />
         </mxCell>
         <mxCell id="cvqTNHz6OLDybXuR_CQE-675" value="&lt;font style=&quot;font-size: 36px&quot;&gt;room_mode_invite_user_2020_05&lt;br&gt;（房间模式切换受邀用户记录表）&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1330" y="-6050" width="560" height="90" as="geometry" />
+          <mxGeometry x="1311" y="-5950" width="560" height="90" as="geometry" />
         </mxCell>
         <mxCell id="cvqTNHz6OLDybXuR_CQE-676" value="&lt;font style=&quot;font-size: 36px&quot;&gt;room_mode_invite_user_2020_05&lt;br&gt;（房间模式切换受邀用户记录表）&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1329" y="-5920" width="561" height="90" as="geometry" />
+          <mxGeometry x="1310" y="-5820" width="561" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="cvqTNHz6OLDybXuR_CQE-677" value="&lt;font style=&quot;font-size: 36px&quot;&gt;room_mode_invite_user_2020_05&lt;br&gt;（房间模式切换受邀用户记录表）&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1330" y="-5797" width="560" height="90" as="geometry" />
-        </mxCell>
-        <mxCell id="cvqTNHz6OLDybXuR_CQE-678" value="&lt;font style=&quot;font-size: 36px&quot;&gt;room_mode_invite_user_2020_05&lt;br&gt;（房间模式切换受邀用户记录表）&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1329" y="-5680" width="561" height="90" as="geometry" />
-        </mxCell>
-        <mxCell id="cvqTNHz6OLDybXuR_CQE-679" value="&lt;font style=&quot;font-size: 36px&quot;&gt;......&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1330" y="-5560" width="290" height="90" as="geometry" />
-        </mxCell>
-        <mxCell id="cvqTNHz6OLDybXuR_CQE-685" value="&lt;font style=&quot;font-size: 36px&quot;&gt;发出邀请后受到邀请的用户记录&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1329" y="-6170" width="520" height="110" as="geometry" />
+        <mxCell id="cvqTNHz6OLDybXuR_CQE-685" value="&lt;font style=&quot;font-size: 36px&quot;&gt;发出邀请后受到邀请的用户记录（男女各一条记录）&lt;br&gt;当邀请的人&lt;font color=&quot;#cc0000&quot;&gt;都同意受邀&lt;/font&gt;时，invite表状态改为1-同意，否则改为2-拒绝&lt;br&gt;&lt;font color=&quot;#cc0000&quot;&gt;&lt;br&gt;邀请男嘉宾同意创建专属模式后，除了团长、麦位的男女嘉宾和超级管理员外，其余的用户均踢出房间&lt;/font&gt;&lt;div style=&quot;font-size: 13.3333px&quot;&gt;&lt;span style=&quot;font-size: 36px&quot;&gt;&lt;font color=&quot;#cc0000&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 13.3333px&quot;&gt;&lt;span style=&quot;font-size: 36px&quot;&gt;&lt;font color=&quot;#cc0000&quot;&gt;邀请女嘉宾同意创建专属模式后，除了团长、麦位的女嘉宾和超级管理员外，其余的用户均踢出房间&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1220" y="-6350" width="842.5" height="400" as="geometry" />
         </mxCell>
         <mxCell id="cvqTNHz6OLDybXuR_CQE-692" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;shadow=0;opacity=40;" edge="1" parent="1" source="cvqTNHz6OLDybXuR_CQE-688" target="cvqTNHz6OLDybXuR_CQE-691">
           <mxGeometry relative="1" as="geometry" />
