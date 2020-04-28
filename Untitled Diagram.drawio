@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-04-28T07:29:31.188Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.113 Safari/537.36" etag="SMqbnCbVAXiurap8WXrH" version="13.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-04-28T07:52:17.501Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.113 Safari/537.36" etag="s0iiVlmHnuxRb4jH9AAo" version="13.0.1" type="github">
   <diagram id="tqdO_gt39iN2YjfOuPq4" name="Page-1">
     <mxGraphModel dx="9755" dy="10552" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2098,7 +2098,7 @@
           <mxGeometry x="-791.2599999999998" y="-8440" width="532.5" height="90" as="geometry" />
         </mxCell>
         <mxCell id="KN5vOGbHzke01zN31TkS-11" value="&lt;font style=&quot;font-size: 36px&quot;&gt;每开播一次就是一个场次，团长可以无限次开播，每个场次可以无限次切换房间模式&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-1579.9999999999998" y="-5210" width="739.49" height="100" as="geometry" />
+          <mxGeometry x="-1596.8099999999997" y="-5195" width="739.49" height="100" as="geometry" />
         </mxCell>
         <mxCell id="KN5vOGbHzke01zN31TkS-21" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;opacity=40;" edge="1" parent="1" source="KN5vOGbHzke01zN31TkS-15">
           <mxGeometry relative="1" as="geometry">
@@ -2272,6 +2272,11 @@
             <mxPoint x="-1928.25" y="-4060" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="KN5vOGbHzke01zN31TkS-102" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;opacity=40;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="KN5vOGbHzke01zN31TkS-80" target="KN5vOGbHzke01zN31TkS-103">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-2660" y="-4142" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="KN5vOGbHzke01zN31TkS-80" value="&lt;font&gt;&lt;span style=&quot;font-size: 36px&quot;&gt;user_online_duration_log_2020_04&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;font-size: 36px&quot;&gt;（用户在线时长日志）&lt;/span&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-2228.75" y="-4190.75" width="597.5" height="96.87" as="geometry" />
         </mxCell>
@@ -2279,18 +2284,18 @@
           <mxGeometry x="-2207.25" y="-4330.75" width="527.5" height="140" as="geometry" />
         </mxCell>
         <mxCell id="KN5vOGbHzke01zN31TkS-83" value="&lt;font style=&quot;font-size: 36px&quot;&gt;room_mp&lt;br&gt;（房间麦位）&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-2982.5" y="-4240" width="227.5" height="91.88" as="geometry" />
+          <mxGeometry x="-3636.25" y="-4243" width="227.5" height="91.88" as="geometry" />
         </mxCell>
         <mxCell id="KN5vOGbHzke01zN31TkS-86" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;opacity=40;" edge="1" parent="1" source="KN5vOGbHzke01zN31TkS-84" target="KN5vOGbHzke01zN31TkS-83">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-2860" y="-4208.75" as="sourcePoint" />
+            <mxPoint x="-3513.75" y="-4211.75" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="KN5vOGbHzke01zN31TkS-84" value="&lt;span style=&quot;font-size: 36px&quot;&gt;如果用户在麦上&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-3033.75" y="-4467" width="330" height="136.25" as="geometry" />
+          <mxGeometry x="-3687.5" y="-4470" width="330" height="136.25" as="geometry" />
         </mxCell>
         <mxCell id="KN5vOGbHzke01zN31TkS-87" value="&lt;font style=&quot;font-size: 36px&quot;&gt;下麦处理&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-2968.5" y="-4310" width="200" height="62" as="geometry" />
+          <mxGeometry x="-3622.25" y="-4313" width="200" height="62" as="geometry" />
         </mxCell>
         <mxCell id="KN5vOGbHzke01zN31TkS-97" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;opacity=40;" edge="1" parent="1" source="KN5vOGbHzke01zN31TkS-93" target="KN5vOGbHzke01zN31TkS-96">
           <mxGeometry relative="1" as="geometry" />
@@ -2315,6 +2320,18 @@
         </mxCell>
         <mxCell id="KN5vOGbHzke01zN31TkS-101" value="&lt;font style=&quot;font-size: 36px&quot;&gt;更新房间的用户申请上麦人数，根据room_user表中有申请id的数据总数，分别得出申请男女数量&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-2299.56" y="-3570" width="800" height="115.57" as="geometry" />
+        </mxCell>
+        <mxCell id="KN5vOGbHzke01zN31TkS-105" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;opacity=40;" edge="1" parent="1" source="KN5vOGbHzke01zN31TkS-103" target="KN5vOGbHzke01zN31TkS-104">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KN5vOGbHzke01zN31TkS-103" value="&lt;span style=&quot;font-size: 36px&quot;&gt;如果是团长&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-2950" y="-4202.54" width="320" height="120.44" as="geometry" />
+        </mxCell>
+        <mxCell id="KN5vOGbHzke01zN31TkS-104" value="&lt;font&gt;&lt;span style=&quot;font-size: 36px&quot;&gt;owner_daily_sum_2020_03&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;font-size: 36px&quot;&gt;（团长每日开播统计&lt;/span&gt;&lt;span style=&quot;font-size: 36px&quot;&gt;）&lt;/span&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-3016.88" y="-3930" width="453.75" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="KN5vOGbHzke01zN31TkS-106" value="&lt;font style=&quot;font-size: 36px&quot;&gt;查找当天的统计记录，如果没有则创建新纪录，有则累加play_second值&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-3118.2500000000005" y="-4030" width="671.25" height="110" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
