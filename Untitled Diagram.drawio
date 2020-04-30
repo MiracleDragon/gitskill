@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-04-30T09:39:23.874Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.113 Safari/537.36" etag="CBrAU_XLeZAZQZd4KpTE" version="13.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-04-30T09:55:43.182Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.113 Safari/537.36" etag="kD47oKgYfpfeqY2VmIbD" version="13.0.1" type="github">
   <diagram id="tqdO_gt39iN2YjfOuPq4" name="Page-1">
     <mxGraphModel dx="9897" dy="11669" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -3585,11 +3585,33 @@
         <mxCell id="KN5vOGbHzke01zN31TkS-521" value="&lt;font&gt;&lt;span style=&quot;font-size: 36px&quot;&gt;获取用户钱包，不存在钱包记录则创建&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;font-size: 36px&quot;&gt;&lt;font color=&quot;#990000&quot;&gt;如果收入次数money_times为0，&lt;br&gt;添加首次收入时间first_money_at&lt;/font&gt;，&lt;br&gt;累计用户余额money，&lt;br&gt;更新最后收入时间&lt;/span&gt;&lt;span style=&quot;font-size: 36px&quot;&gt;last_money_at，&lt;br&gt;累加收入次数&lt;/span&gt;&lt;span style=&quot;font-size: 36px&quot;&gt;money_times&lt;/span&gt;&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="11186.45" y="27.5" width="660" height="332.5" as="geometry" />
         </mxCell>
+        <mxCell id="KN5vOGbHzke01zN31TkS-525" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;opacity=40;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="KN5vOGbHzke01zN31TkS-523" target="KN5vOGbHzke01zN31TkS-526">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="11009" y="985.5556640625" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="KN5vOGbHzke01zN31TkS-523" value="&lt;font&gt;&lt;span style=&quot;font-size: 36px&quot;&gt;user_wallet_log_2020_04&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;font-size: 36px&quot;&gt;（用户钱包日志）&lt;/span&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="10793.5" y="610" width="430" height="85" as="geometry" />
         </mxCell>
         <mxCell id="KN5vOGbHzke01zN31TkS-524" value="&lt;font&gt;&lt;span style=&quot;font-size: 36px&quot;&gt;记录用户钱包流水日志，&lt;br&gt;用户uid：&lt;/span&gt;&lt;span style=&quot;font-size: 36px&quot;&gt;房主id&lt;/span&gt;&lt;span style=&quot;font-size: 36px&quot;&gt;，&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;font-size: 36px&quot;&gt;场景值scene：11（scene表中可查），&lt;br&gt;变化数量num：收益金额&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;font-size: 36px&quot;&gt;余额remaining：钱包money+收益金额，&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;font-size: 36px&quot;&gt;关联id（related_id）&lt;/span&gt;&lt;span style=&quot;font-size: 36px&quot;&gt;：房间id，&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;font-size: 36px&quot;&gt;关联uid（related_uid&lt;/span&gt;&lt;span style=&quot;font-size: 36px&quot;&gt;）：ticket_uid，&lt;br&gt;关联时间：time()，&lt;br&gt;remark：&lt;/span&gt;&lt;span style=&quot;font-size: 36px&quot;&gt;普通上麦收益，&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;font-size: 36px&quot;&gt;关联类型related_type：12（关联类型表可查），&lt;br&gt;师傅id（master_id）：&lt;/span&gt;&lt;span style=&quot;font-size: 36px&quot;&gt;Owner表中master_id&lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="11210" y="430" width="850" height="505" as="geometry" />
+          <mxGeometry x="11150" y="422.5" width="850" height="505" as="geometry" />
+        </mxCell>
+        <mxCell id="KN5vOGbHzke01zN31TkS-528" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;opacity=40;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="KN5vOGbHzke01zN31TkS-526" target="KN5vOGbHzke01zN31TkS-529">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="11009" y="1300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KN5vOGbHzke01zN31TkS-526" value="&lt;font&gt;&lt;span style=&quot;font-size: 36px&quot;&gt;user_wallet_log_2020_04&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;font-size: 36px&quot;&gt;（用户钱包日志）&lt;/span&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="10793.5" y="1017.5" width="430" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="KN5vOGbHzke01zN31TkS-527" value="&lt;font&gt;&lt;span style=&quot;font-size: 36px&quot;&gt;记录用户&lt;/span&gt;&lt;span style=&quot;font-size: 36px&quot;&gt;钱包日志索引&lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="11230" y="1026.5" width="370" height="63.5" as="geometry" />
+        </mxCell>
+        <mxCell id="KN5vOGbHzke01zN31TkS-529" value="&lt;font&gt;&lt;span style=&quot;font-size: 36px&quot;&gt;UserWalletLogEvent&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;font-size: 36px&quot;&gt;（观察者Event）&lt;/span&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="10793.5" y="1317" width="430" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="KN5vOGbHzke01zN31TkS-530" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;opacity=40;" edge="1" parent="1" source="KN5vOGbHzke01zN31TkS-529" target="KN5vOGbHzke01zN31TkS-529">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
