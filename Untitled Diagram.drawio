@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-04-30T07:10:44.169Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.113 Safari/537.36" etag="9U_BIYyTW3RZdCGBCKDC" version="13.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-04-30T08:24:52.097Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.113 Safari/537.36" etag="tn6Sh8xhNwgJqtYcYx1H" version="13.0.1" type="github">
   <diagram id="tqdO_gt39iN2YjfOuPq4" name="Page-1">
-    <mxGraphModel dx="9275" dy="11653" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="9755" dy="11653" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -3451,42 +3451,115 @@
         </mxCell>
         <mxCell id="KN5vOGbHzke01zN31TkS-480" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;opacity=40;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="KN5vOGbHzke01zN31TkS-479" target="KN5vOGbHzke01zN31TkS-482">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="10218.94" y="-700.75" as="targetPoint" />
+            <mxPoint x="11168.94" y="-700.75" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="KN5vOGbHzke01zN31TkS-484" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;opacity=40;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="KN5vOGbHzke01zN31TkS-479" target="KN5vOGbHzke01zN31TkS-485">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="9850.606666666668" y="-508.75" as="targetPoint" />
+            <mxPoint x="10800.606666666668" y="-508.75" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="KN5vOGbHzke01zN31TkS-492" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;opacity=40;" edge="1" parent="1" source="KN5vOGbHzke01zN31TkS-479" target="KN5vOGbHzke01zN31TkS-489">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="KN5vOGbHzke01zN31TkS-479" value="&lt;span style=&quot;font-size: 36px&quot;&gt;是否专属模式&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="9685" y="-770.0000000000003" width="330" height="136.25" as="geometry" />
+          <mxGeometry x="10635" y="-770.0000000000003" width="330" height="136.25" as="geometry" />
         </mxCell>
         <mxCell id="KN5vOGbHzke01zN31TkS-481" value="&lt;font style=&quot;font-size: 36px&quot;&gt;是&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="10058.94" y="-746.3999999999997" width="70" height="47.81" as="geometry" />
+          <mxGeometry x="11008.94" y="-746.3999999999997" width="70" height="47.81" as="geometry" />
         </mxCell>
         <mxCell id="KN5vOGbHzke01zN31TkS-482" value="&lt;span style=&quot;font-family: &amp;#34;helvetica&amp;#34; ; font-size: 36px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; float: none ; display: inline&quot;&gt;用户钱包日志关联类型为&lt;br&gt;16:专属扣费&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="10218.94" y="-763.75" width="560" height="120" as="geometry" />
+          <mxGeometry x="11168.94" y="-763.75" width="560" height="120" as="geometry" />
         </mxCell>
         <mxCell id="KN5vOGbHzke01zN31TkS-483" value="&lt;font style=&quot;font-size: 36px&quot;&gt;否&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="9791.45" y="-603.75" width="70" height="47.81" as="geometry" />
+          <mxGeometry x="10741.45" y="-603.75" width="70" height="47.81" as="geometry" />
         </mxCell>
         <mxCell id="KN5vOGbHzke01zN31TkS-486" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;opacity=40;" edge="1" parent="1" source="KN5vOGbHzke01zN31TkS-485">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="9850.606666666668" y="-248.75" as="targetPoint" />
+            <mxPoint x="10800.606666666668" y="-248.75" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="KN5vOGbHzke01zN31TkS-485" value="&lt;span style=&quot;font-family: &amp;#34;helvetica&amp;#34; ; font-size: 36px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; float: none ; display: inline&quot;&gt;用户钱包日志关联类型为&lt;br&gt;16:专属扣费&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="9570" y="-483.75" width="560" height="120" as="geometry" />
+          <mxGeometry x="10520" y="-483.75" width="560" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="KN5vOGbHzke01zN31TkS-493" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;opacity=40;entryX=0;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="KN5vOGbHzke01zN31TkS-489" target="KN5vOGbHzke01zN31TkS-495">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="9241" y="-100" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="KN5vOGbHzke01zN31TkS-489" value="&lt;font&gt;&lt;span style=&quot;font-size: 36px&quot;&gt;room_mp_pay_log_2020_04&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;font-size: 36px&quot;&gt;（麦位付费日志）&lt;/span&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="9002.56" y="-478" width="477" height="90" as="geometry" />
         </mxCell>
         <mxCell id="KN5vOGbHzke01zN31TkS-490" value="&lt;font style=&quot;font-size: 36px&quot;&gt;扣费成功记录日志，记录ticket数据中的房间模式，扣费用户id，付费价格（火点），付费序号（ticket-&amp;gt;pay_index + 1），&lt;font color=&quot;#990000&quot;&gt;（如果是专属模式，需要记录total_private_pay）&lt;/font&gt;，&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="8720" y="-673.5" width="1011.59" height="201" as="geometry" />
+        </mxCell>
+        <mxCell id="KN5vOGbHzke01zN31TkS-494" value="&lt;font style=&quot;font-size: 36px&quot;&gt;房主（团长）获得分成&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="9076.06" y="-320" width="373.94" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="KN5vOGbHzke01zN31TkS-498" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;opacity=40;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="KN5vOGbHzke01zN31TkS-495" target="KN5vOGbHzke01zN31TkS-504">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="10193.94" y="10" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KN5vOGbHzke01zN31TkS-499" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;opacity=40;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="KN5vOGbHzke01zN31TkS-495" target="KN5vOGbHzke01zN31TkS-507">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="9774.94" y="235" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KN5vOGbHzke01zN31TkS-506" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;opacity=40;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="KN5vOGbHzke01zN31TkS-495" target="KN5vOGbHzke01zN31TkS-508">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="9240" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KN5vOGbHzke01zN31TkS-495" value="&lt;span style=&quot;font-size: 36px&quot;&gt;是否专属模式&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="9610" y="-58.75000000000034" width="330" height="136.25" as="geometry" />
+        </mxCell>
+        <mxCell id="KN5vOGbHzke01zN31TkS-496" value="&lt;font style=&quot;font-size: 36px&quot;&gt;是&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="10037.490000000002" y="-34.99999999999977" width="70" height="47.81" as="geometry" />
+        </mxCell>
+        <mxCell id="KN5vOGbHzke01zN31TkS-497" value="&lt;font style=&quot;font-size: 36px&quot;&gt;否&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="9710" y="112.19" width="70" height="47.81" as="geometry" />
+        </mxCell>
+        <mxCell id="KN5vOGbHzke01zN31TkS-500" value="&lt;span style=&quot;font-size: 36px&quot;&gt;HH:RoomUserHintEvent&lt;/span&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="10370" y="795" width="630.55" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="KN5vOGbHzke01zN31TkS-502" value="&lt;font style=&quot;font-size: 36px&quot;&gt;获取房间表中mode_id，查找对应房间模式记录更新income金额&lt;br&gt;&lt;font color=&quot;#990000&quot;&gt;获取上麦费用40%&lt;/font&gt;&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="9490" y="284.29" width="600" height="145.71" as="geometry" />
+        </mxCell>
+        <mxCell id="KN5vOGbHzke01zN31TkS-503" value="&lt;font style=&quot;font-size: 36px&quot;&gt;获取房间表中mode_id，查找对应房间模式记录更新private_income金额&lt;br&gt;&lt;font color=&quot;#990000&quot;&gt;按分钟计费，获得专属价格50%收益&lt;/font&gt;&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="10140" y="-230" width="630" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="KN5vOGbHzke01zN31TkS-504" value="&lt;font style=&quot;font-size: 36px&quot;&gt;room_mode_2020_05&lt;br&gt;（房间模式表）&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="10271.730000000001" y="-35" width="377" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="KN5vOGbHzke01zN31TkS-507" value="&lt;font style=&quot;font-size: 36px&quot;&gt;room_mode_2020_05&lt;br&gt;（房间模式表）&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="9590.000000000002" y="445" width="377" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="KN5vOGbHzke01zN31TkS-510" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;opacity=40;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="KN5vOGbHzke01zN31TkS-508" target="KN5vOGbHzke01zN31TkS-511">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="9530" y="870" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KN5vOGbHzke01zN31TkS-513" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;opacity=40;" edge="1" parent="1" source="KN5vOGbHzke01zN31TkS-508" target="KN5vOGbHzke01zN31TkS-512">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KN5vOGbHzke01zN31TkS-508" value="&lt;font&gt;&lt;span style=&quot;font-size: 36px&quot;&gt;room_mp_ticket_2020_04&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;font-size: 36px&quot;&gt;（房间麦位入场券表）&lt;/span&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="9002.56" y="610" width="477" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="KN5vOGbHzke01zN31TkS-509" value="&lt;font&gt;&lt;span style=&quot;font-size: 36px&quot;&gt;更新入场券数据&lt;br&gt;最后付费时间：last_pay_at，&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;font-size: 36px&quot;&gt;下次应付费时间：next_pay_at（最后付费时间+时间间隔：last_pay_at+pay_interval），&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;font-size: 36px&quot;&gt;付费次数：pay_index + 1，&lt;br&gt;已支付火点数：total_pay，&lt;br&gt;&lt;/span&gt;&lt;font color=&quot;#990000&quot;&gt;&lt;span style=&quot;font-size: 36px&quot;&gt;（如果是专属模式，需要累加total_private_pay&lt;/span&gt;&lt;span style=&quot;font-size: 36px&quot;&gt;）&lt;/span&gt;&lt;/font&gt;&lt;span style=&quot;font-size: 36px&quot;&gt;，&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 36px&quot;&gt;（如果是付费次数&amp;lt;=1，需要记录首次支付时间first_pay_at&lt;/span&gt;&lt;span style=&quot;font-size: 36px&quot;&gt;）&lt;/span&gt;&lt;span style=&quot;font-size: 36px&quot;&gt;，&lt;br&gt;&lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="8360" y="230" width="1023.5" height="380" as="geometry" />
+        </mxCell>
+        <mxCell id="KN5vOGbHzke01zN31TkS-516" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.16;entryY=0.55;entryDx=0;entryDy=0;entryPerimeter=0;opacity=40;" edge="1" parent="1" source="KN5vOGbHzke01zN31TkS-511" target="KN5vOGbHzke01zN31TkS-500">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KN5vOGbHzke01zN31TkS-511" value="&lt;font style=&quot;font-size: 36px&quot;&gt;如果用户余额小于扣费金额，不足一分钟发送消息提示&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="9534" y="737.5" width="390" height="145" as="geometry" />
+        </mxCell>
+        <mxCell id="KN5vOGbHzke01zN31TkS-515" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.16;entryY=0.55;entryDx=0;entryDy=0;entryPerimeter=0;opacity=40;" edge="1" parent="1" source="KN5vOGbHzke01zN31TkS-512" target="KN5vOGbHzke01zN31TkS-500">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KN5vOGbHzke01zN31TkS-512" value="&lt;font style=&quot;font-size: 36px&quot;&gt;如果用户余额大于扣费金额，但小于扣费金额*2（把下一分钟的扣费金额也算上），发送即将用完消息提示&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="9526.06" y="930" width="390" height="260" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
