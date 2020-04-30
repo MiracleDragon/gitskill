@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-04-30T03:10:17.457Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.113 Safari/537.36" etag="nF_acUHF66L7UkKWMeKz" version="13.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-04-30T03:18:57.018Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.113 Safari/537.36" etag="IcJPEwCLIJ8d3FG3Whfg" version="13.0.1" type="github">
   <diagram id="tqdO_gt39iN2YjfOuPq4" name="Page-1">
-    <mxGraphModel dx="10746" dy="12138" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="10333" dy="11936" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -3145,7 +3145,7 @@
         <mxCell id="KN5vOGbHzke01zN31TkS-382" value="&lt;font&gt;&lt;span style=&quot;font-size: 36px&quot;&gt;缓存上麦次数&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;font-size: 36px&quot;&gt;&#39;user_mp_times_&#39;.$uid&lt;/span&gt;&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="3762.82" y="-2222" width="416.3" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="KN5vOGbHzke01zN31TkS-385" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;opacity=40;" edge="1" parent="1" source="KN5vOGbHzke01zN31TkS-383">
+        <mxCell id="KN5vOGbHzke01zN31TkS-385" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;opacity=40;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="KN5vOGbHzke01zN31TkS-383" target="KN5vOGbHzke01zN31TkS-393">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="8800" y="-4282" as="targetPoint" />
           </mxGeometry>
@@ -3153,8 +3153,8 @@
         <mxCell id="KN5vOGbHzke01zN31TkS-383" value="&lt;span style=&quot;font-size: 36px&quot;&gt;上麦邀请答复&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="7700" y="-4404.78" width="245.55" height="245.55" as="geometry" />
         </mxCell>
-        <mxCell id="KN5vOGbHzke01zN31TkS-384" value="&lt;font style=&quot;font-size: 36px&quot;&gt;获取发出邀请时发送的邀请id，inviteId&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="8110" y="-4388.13" width="500" height="113.09" as="geometry" />
+        <mxCell id="KN5vOGbHzke01zN31TkS-384" value="&lt;font style=&quot;font-size: 36px&quot;&gt;获取发出邀请时发送的邀请id（inviteId）查找对应的邀请记录&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="8290" y="-4436.13" width="580" height="113.09" as="geometry" />
         </mxCell>
         <mxCell id="KN5vOGbHzke01zN31TkS-388" value="&lt;font style=&quot;font-size: 36px&quot;&gt;如果用户在房间内，查找对应用户id并且is_inline为1，则不发送邀请&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="5120" y="-4490.31" width="680.33" height="140" as="geometry" />
@@ -3170,8 +3170,56 @@
         <mxCell id="KN5vOGbHzke01zN31TkS-391" value="&lt;font style=&quot;font-size: 36px&quot;&gt;查找对应id的用户，如不同意房间邀请弹窗果enable_room_invite_popup为0，不发送邀请&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="5880.91" y="-4491.87" width="750" height="170" as="geometry" />
         </mxCell>
+        <mxCell id="KN5vOGbHzke01zN31TkS-396" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;opacity=40;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="KN5vOGbHzke01zN31TkS-397" target="KN5vOGbHzke01zN31TkS-395">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="8581.5" y="-4033.79" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KN5vOGbHzke01zN31TkS-406" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;opacity=40;" edge="1" parent="1" source="KN5vOGbHzke01zN31TkS-393" target="KN5vOGbHzke01zN31TkS-397">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="KN5vOGbHzke01zN31TkS-393" value="&lt;font&gt;&lt;span style=&quot;font-size: 36px&quot;&gt;room_mp_invite_2020_03&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;font-size: 36px&quot;&gt;（房间麦位邀请表）&lt;/span&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="8030" y="-4137" width="477" height="90" as="geometry" />
+          <mxGeometry x="8331.5" y="-4328.17" width="477" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="KN5vOGbHzke01zN31TkS-395" value="&lt;font&gt;&lt;font color=&quot;#cccc00&quot;&gt;&lt;span style=&quot;font-size: 36px&quot;&gt;邀请不存在&lt;/span&gt;&lt;/font&gt;&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="8841.5" y="-4080.16" width="200" height="99.37" as="geometry" />
+        </mxCell>
+        <mxCell id="KN5vOGbHzke01zN31TkS-400" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;opacity=40;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="KN5vOGbHzke01zN31TkS-397" target="KN5vOGbHzke01zN31TkS-402">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="8566.5" y="-3770.79" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KN5vOGbHzke01zN31TkS-397" value="&lt;span style=&quot;font-size: 36px&quot;&gt;有无对应记录&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="8406.75" y="-4098.6" width="330" height="136.25" as="geometry" />
+        </mxCell>
+        <mxCell id="KN5vOGbHzke01zN31TkS-399" value="&lt;font style=&quot;font-size: 36px&quot;&gt;否&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="8751.5" y="-4078.96" width="70" height="47.81" as="geometry" />
+        </mxCell>
+        <mxCell id="KN5vOGbHzke01zN31TkS-401" value="&lt;font style=&quot;font-size: 36px&quot;&gt;是&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="8501.5" y="-3914.67" width="70" height="47.81" as="geometry" />
+        </mxCell>
+        <mxCell id="KN5vOGbHzke01zN31TkS-407" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;opacity=40;" edge="1" parent="1" source="KN5vOGbHzke01zN31TkS-402" target="KN5vOGbHzke01zN31TkS-404">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KN5vOGbHzke01zN31TkS-402" value="&lt;font&gt;&lt;span style=&quot;font-size: 36px&quot;&gt;room_mp&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;font-size: 36px&quot;&gt;（房间麦位）&lt;/span&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="8335" y="-3652.88" width="473.5" height="94.69" as="geometry" />
+        </mxCell>
+        <mxCell id="KN5vOGbHzke01zN31TkS-403" value="&lt;font style=&quot;font-size: 36px&quot;&gt;根据邀请id查找对应房间的麦位是否已被占用&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="8291.5" y="-3780.79" width="580" height="113.09" as="geometry" />
+        </mxCell>
+        <mxCell id="KN5vOGbHzke01zN31TkS-408" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;opacity=40;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="KN5vOGbHzke01zN31TkS-404" target="KN5vOGbHzke01zN31TkS-410">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="8880" y="-3303.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KN5vOGbHzke01zN31TkS-404" value="&lt;span style=&quot;font-size: 36px&quot;&gt;对应记录&lt;br&gt;是否有uid&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="8406.75" y="-3371" width="330" height="136.25" as="geometry" />
+        </mxCell>
+        <mxCell id="KN5vOGbHzke01zN31TkS-409" value="&lt;font style=&quot;font-size: 36px&quot;&gt;是&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="8780" y="-3349.81" width="70" height="47.81" as="geometry" />
+        </mxCell>
+        <mxCell id="KN5vOGbHzke01zN31TkS-410" value="&lt;font&gt;&lt;font color=&quot;#cccc00&quot;&gt;&lt;span style=&quot;font-size: 36px&quot;&gt;已有人在该麦位上&lt;/span&gt;&lt;/font&gt;&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="8910" y="-3352.56" width="310" height="92.56" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
