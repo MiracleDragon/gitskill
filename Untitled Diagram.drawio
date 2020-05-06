@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-05-06T07:21:32.666Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.113 Safari/537.36" etag="jYZ3H97sFvXlDJM0e5b8" version="13.0.3" type="github">
+<mxfile host="app.diagrams.net" modified="2020-05-06T07:30:08.235Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.113 Safari/537.36" etag="YVu4Vas18JeXFJhKB7wY" version="13.0.3" type="github">
   <diagram id="tqdO_gt39iN2YjfOuPq4" name="Page-1">
     <mxGraphModel dx="10263" dy="12258" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -3931,8 +3931,19 @@
         <mxCell id="GlGNDQuIf0A-SvM2oGzx-98" value="&lt;font face=&quot;helvetica&quot;&gt;&lt;span style=&quot;font-size: 36px&quot;&gt;队列：&lt;/span&gt;&lt;span style=&quot;font-size: 36px&quot;&gt;RoomPushJob&lt;/span&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="9940" y="-2561.5299999999997" width="440" height="110" as="geometry" />
         </mxCell>
+        <mxCell id="GlGNDQuIf0A-SvM2oGzx-105" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;opacity=40;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="GlGNDQuIf0A-SvM2oGzx-103" target="GlGNDQuIf0A-SvM2oGzx-106">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="9830" y="-2018" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="GlGNDQuIf0A-SvM2oGzx-103" value="&lt;font&gt;&lt;span style=&quot;font-size: 36px&quot;&gt;MicrophoneOnEvent&lt;br&gt;（观察者Event）&lt;/span&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="8854.99" y="-2060" width="430" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="GlGNDQuIf0A-SvM2oGzx-106" value="&lt;font face=&quot;helvetica&quot;&gt;&lt;span style=&quot;font-size: 36px&quot;&gt;队列：&lt;/span&gt;&lt;span style=&quot;font-size: 36px&quot;&gt;AfterMicrophoneOnJob&lt;/span&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="9856.75" y="-2072.5" width="533.25" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="GlGNDQuIf0A-SvM2oGzx-109" value="&lt;font&gt;&lt;span style=&quot;font-size: 36px&quot;&gt;通知上麦者的粉丝&lt;/span&gt;&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="9966.06" y="-2151.69" width="311.62" height="91.69" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
