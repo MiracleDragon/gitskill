@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-05-06T07:30:08.235Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.113 Safari/537.36" etag="YVu4Vas18JeXFJhKB7wY" version="13.0.3" type="github">
+<mxfile host="app.diagrams.net" modified="2020-05-06T07:38:08.367Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.113 Safari/537.36" etag="AXlDnK2c_g3fqSjXO5Xo" version="13.0.3" type="github">
   <diagram id="tqdO_gt39iN2YjfOuPq4" name="Page-1">
-    <mxGraphModel dx="10263" dy="12258" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="9911" dy="12041" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -3939,11 +3939,39 @@
         <mxCell id="GlGNDQuIf0A-SvM2oGzx-103" value="&lt;font&gt;&lt;span style=&quot;font-size: 36px&quot;&gt;MicrophoneOnEvent&lt;br&gt;（观察者Event）&lt;/span&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="8854.99" y="-2060" width="430" height="85" as="geometry" />
         </mxCell>
+        <mxCell id="GlGNDQuIf0A-SvM2oGzx-116" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;opacity=40;" edge="1" parent="1" source="GlGNDQuIf0A-SvM2oGzx-106" target="GlGNDQuIf0A-SvM2oGzx-111">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GlGNDQuIf0A-SvM2oGzx-117" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;opacity=40;" edge="1" parent="1" source="GlGNDQuIf0A-SvM2oGzx-106">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="10123" y="-1680" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="GlGNDQuIf0A-SvM2oGzx-106" value="&lt;font face=&quot;helvetica&quot;&gt;&lt;span style=&quot;font-size: 36px&quot;&gt;队列：&lt;/span&gt;&lt;span style=&quot;font-size: 36px&quot;&gt;AfterMicrophoneOnJob&lt;/span&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="9856.75" y="-2072.5" width="533.25" height="110" as="geometry" />
         </mxCell>
         <mxCell id="GlGNDQuIf0A-SvM2oGzx-109" value="&lt;font&gt;&lt;span style=&quot;font-size: 36px&quot;&gt;通知上麦者的粉丝&lt;/span&gt;&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="9966.06" y="-2151.69" width="311.62" height="91.69" as="geometry" />
+        </mxCell>
+        <mxCell id="GlGNDQuIf0A-SvM2oGzx-113" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;opacity=40;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="GlGNDQuIf0A-SvM2oGzx-111" target="GlGNDQuIf0A-SvM2oGzx-114">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="11002.07" y="-1740" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GlGNDQuIf0A-SvM2oGzx-111" value="&lt;font&gt;&lt;span style=&quot;font-size: 36px&quot;&gt;user_ext&lt;/span&gt;&lt;br style=&quot;font-size: 13.3333px&quot;&gt;&lt;span style=&quot;font-size: 36px&quot;&gt;（&lt;/span&gt;&lt;span style=&quot;font-size: 36px&quot;&gt;用户扩展信息）&lt;/span&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="10767.19" y="-2064.85" width="473.5" height="94.69" as="geometry" />
+        </mxCell>
+        <mxCell id="GlGNDQuIf0A-SvM2oGzx-112" value="&lt;font&gt;&lt;span style=&quot;font-size: 36px&quot;&gt;增加用户上麦次数，&lt;/span&gt;&lt;span style=&quot;font-size: 36px&quot;&gt;mp_times + 1&lt;/span&gt;&lt;span style=&quot;font-size: 36px&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="10716.94" y="-2122" width="603.13" height="63" as="geometry" />
+        </mxCell>
+        <mxCell id="GlGNDQuIf0A-SvM2oGzx-114" value="&lt;font&gt;&lt;span style=&quot;font-size: 36px&quot;&gt;room&lt;/span&gt;&lt;span style=&quot;font-size: 36px&quot;&gt;_user&lt;/span&gt;&lt;br style=&quot;font-size: 13.3333px&quot;&gt;&lt;span style=&quot;font-size: 36px&quot;&gt;（房间用户表&lt;/span&gt;&lt;span style=&quot;font-size: 36px&quot;&gt;）&lt;/span&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="10767.19" y="-1824.69" width="473.5" height="94.69" as="geometry" />
+        </mxCell>
+        <mxCell id="GlGNDQuIf0A-SvM2oGzx-115" value="&lt;font&gt;&lt;span style=&quot;font-size: 36px&quot;&gt;增加用户上麦次数，&lt;/span&gt;&lt;span style=&quot;font-size: 36px&quot;&gt;mp_times + 1&lt;/span&gt;&lt;span style=&quot;font-size: 36px&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="10693.5" y="-1901.19" width="603.13" height="63" as="geometry" />
+        </mxCell>
+        <mxCell id="GlGNDQuIf0A-SvM2oGzx-118" value="&lt;font&gt;&lt;span style=&quot;font-size: 36px&quot;&gt;上麦后，给粉丝发送通知&lt;/span&gt;&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="9910" y="-1850" width="413.13" height="67.69" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
