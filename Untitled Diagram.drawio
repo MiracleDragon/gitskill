@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-05-06T07:38:08.367Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.113 Safari/537.36" etag="AXlDnK2c_g3fqSjXO5Xo" version="13.0.3" type="github">
+<mxfile host="app.diagrams.net" modified="2020-05-06T08:41:06.318Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.113 Safari/537.36" etag="9X9BuSnlRYKSE-9hli48" version="13.0.3" type="github">
   <diagram id="tqdO_gt39iN2YjfOuPq4" name="Page-1">
-    <mxGraphModel dx="9911" dy="12041" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="10511" dy="11956" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -3682,7 +3682,7 @@
         <mxCell id="GlGNDQuIf0A-SvM2oGzx-23" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="GlGNDQuIf0A-SvM2oGzx-20" target="GlGNDQuIf0A-SvM2oGzx-22">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="GlGNDQuIf0A-SvM2oGzx-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="GlGNDQuIf0A-SvM2oGzx-20" target="GlGNDQuIf0A-SvM2oGzx-40">
+        <mxCell id="GlGNDQuIf0A-SvM2oGzx-41" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="GlGNDQuIf0A-SvM2oGzx-20" target="GlGNDQuIf0A-SvM2oGzx-40">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="GlGNDQuIf0A-SvM2oGzx-20" value="&lt;font&gt;&lt;span style=&quot;font-size: 36px&quot;&gt;room_mp_ticket_2020_04&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;font-size: 36px&quot;&gt;（房间麦位入场券表）&lt;/span&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -3716,6 +3716,11 @@
             <mxPoint x="15170" y="-7782.87" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="GlGNDQuIf0A-SvM2oGzx-124" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;opacity=40;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="GlGNDQuIf0A-SvM2oGzx-29" target="GlGNDQuIf0A-SvM2oGzx-125">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="14629" y="-7400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="GlGNDQuIf0A-SvM2oGzx-29" value="&lt;span style=&quot;font-size: 36px&quot;&gt;如果专属模式已支付火点数量&lt;/span&gt;&lt;span style=&quot;font-size: 36px&quot;&gt;total_private_pay &amp;gt; 0&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="14287.75" y="-7893.75" width="681.5" height="223.31" as="geometry" />
         </mxCell>
@@ -3737,17 +3742,14 @@
         <mxCell id="GlGNDQuIf0A-SvM2oGzx-36" value="&lt;font style=&quot;font-size: 36px&quot;&gt;Event:dispatch&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="15190" y="-7579.969999999999" width="600" height="62.79" as="geometry" />
         </mxCell>
-        <mxCell id="GlGNDQuIf0A-SvM2oGzx-38" value="&lt;font style=&quot;font-size: 36px&quot;&gt;处理连麦数据&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="13132.78" y="-7881.78" width="600" height="62.79" as="geometry" />
+        <mxCell id="GlGNDQuIf0A-SvM2oGzx-38" value="&lt;font style=&quot;font-size: 36px&quot;&gt;更新房间麦位信息，&lt;br&gt;ticket_id，uid，play_id，price，cover_src，cover_updated_at，last_heartbeat_at，last_heartbeat_at都为0&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="13122.78" y="-7906.78" width="610" height="226.78" as="geometry" />
         </mxCell>
-        <mxCell id="GlGNDQuIf0A-SvM2oGzx-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="GlGNDQuIf0A-SvM2oGzx-22" target="GlGNDQuIf0A-SvM2oGzx-40">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="13430" y="-7963.87" as="targetPoint" />
-            <mxPoint x="14120" y="-8056.12" as="sourcePoint" />
-          </mxGeometry>
+        <mxCell id="GlGNDQuIf0A-SvM2oGzx-129" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;opacity=40;" edge="1" parent="1" source="GlGNDQuIf0A-SvM2oGzx-40" target="GlGNDQuIf0A-SvM2oGzx-128">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="GlGNDQuIf0A-SvM2oGzx-40" value="&lt;font&gt;&lt;span style=&quot;font-size: 36px&quot;&gt;room_mp_ticket_2020_04&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;font-size: 36px&quot;&gt;（房间麦位入场券表）&lt;/span&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="13194.28" y="-7793.87" width="477" height="90" as="geometry" />
+        <mxCell id="GlGNDQuIf0A-SvM2oGzx-40" value="&lt;font&gt;&lt;span style=&quot;font-size: 36px&quot;&gt;room_mp&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;font-size: 36px&quot;&gt;（房间麦位表）&lt;/span&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="13194.27" y="-7669.97" width="477" height="90" as="geometry" />
         </mxCell>
         <mxCell id="GlGNDQuIf0A-SvM2oGzx-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="GlGNDQuIf0A-SvM2oGzx-42" target="GlGNDQuIf0A-SvM2oGzx-45">
           <mxGeometry relative="1" as="geometry">
@@ -3829,6 +3831,11 @@
         <mxCell id="GlGNDQuIf0A-SvM2oGzx-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="GlGNDQuIf0A-SvM2oGzx-63" target="GlGNDQuIf0A-SvM2oGzx-69">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="9070" y="-4213.87" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GlGNDQuIf0A-SvM2oGzx-122" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;opacity=40;" edge="1" parent="1" source="GlGNDQuIf0A-SvM2oGzx-63">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="9577" y="-4160" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="GlGNDQuIf0A-SvM2oGzx-63" value="&lt;font&gt;&lt;span style=&quot;font-size: 36px&quot;&gt;mask_users&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;font-size: 36px&quot;&gt;（用户购买的面罩）&lt;/span&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -3936,6 +3943,11 @@
             <mxPoint x="9830" y="-2018" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="GlGNDQuIf0A-SvM2oGzx-119" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;opacity=40;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="GlGNDQuIf0A-SvM2oGzx-103" target="GlGNDQuIf0A-SvM2oGzx-120">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="9069" y="-1660" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="GlGNDQuIf0A-SvM2oGzx-103" value="&lt;font&gt;&lt;span style=&quot;font-size: 36px&quot;&gt;MicrophoneOnEvent&lt;br&gt;（观察者Event）&lt;/span&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="8854.99" y="-2060" width="430" height="85" as="geometry" />
         </mxCell>
@@ -3972,6 +3984,38 @@
         </mxCell>
         <mxCell id="GlGNDQuIf0A-SvM2oGzx-118" value="&lt;font&gt;&lt;span style=&quot;font-size: 36px&quot;&gt;上麦后，给粉丝发送通知&lt;/span&gt;&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="9910" y="-1850" width="413.13" height="67.69" as="geometry" />
+        </mxCell>
+        <mxCell id="GlGNDQuIf0A-SvM2oGzx-120" value="OK" style="shape=cylinder;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="9040" y="-1753" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="GlGNDQuIf0A-SvM2oGzx-123" value="&lt;font style=&quot;font-size: 36px&quot;&gt;处理连麦数据&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="14490" y="-7638.860000000001" width="300" height="69.97" as="geometry" />
+        </mxCell>
+        <mxCell id="GlGNDQuIf0A-SvM2oGzx-127" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;opacity=40;" edge="1" parent="1" source="GlGNDQuIf0A-SvM2oGzx-125">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="14629" y="-7060" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GlGNDQuIf0A-SvM2oGzx-125" value="&lt;font&gt;&lt;span style=&quot;font-size: 36px&quot;&gt;room_mp_together&lt;/span&gt;&lt;br style=&quot;font-size: 13.3333px&quot;&gt;&lt;span style=&quot;font-size: 36px&quot;&gt;（连麦记录）&lt;/span&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="14390" y="-7413.87" width="477" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="GlGNDQuIf0A-SvM2oGzx-126" value="&lt;font style=&quot;font-size: 36px&quot;&gt;找出对应ticket_id的记录&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="14420" y="-7490.67" width="411.5" height="81.35" as="geometry" />
+        </mxCell>
+        <mxCell id="GlGNDQuIf0A-SvM2oGzx-133" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.625;entryY=0.2;entryDx=0;entryDy=0;opacity=40;entryPerimeter=0;" edge="1" parent="1" source="GlGNDQuIf0A-SvM2oGzx-128" target="GlGNDQuIf0A-SvM2oGzx-132">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GlGNDQuIf0A-SvM2oGzx-128" value="&lt;font&gt;&lt;span style=&quot;font-size: 36px&quot;&gt;room_mp&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;font-size: 36px&quot;&gt;（房间麦位表）&lt;/span&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="13194.27" y="-7270" width="477" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="GlGNDQuIf0A-SvM2oGzx-130" value="&lt;font style=&quot;font-size: 36px&quot;&gt;更新男/女嘉宾在线数量，&lt;br&gt;如果是num为1，male_on_mp_count为0，否则female_on_mp_count为0&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="13120" y="-7429.58" width="660" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="GlGNDQuIf0A-SvM2oGzx-131" value="&lt;font&gt;&lt;span style=&quot;font-size: 36px&quot;&gt;通知notify&lt;/span&gt;&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="13860" y="-7290" width="230" height="79.19" as="geometry" />
+        </mxCell>
+        <mxCell id="GlGNDQuIf0A-SvM2oGzx-132" value="&lt;span style=&quot;font-size: 36px&quot;&gt;HH:&lt;/span&gt;&lt;span style=&quot;font-size: 36px&quot;&gt;DownMicroNotify&lt;/span&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="13770" y="-7109.38" width="630.55" height="170" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
